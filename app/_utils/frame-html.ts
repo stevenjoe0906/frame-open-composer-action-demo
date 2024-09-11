@@ -18,9 +18,9 @@ export const homeHtml = (host: string) => `
         <meta name="fc:frame:button:3" content="flappy" />
         <meta name="fc:frame:button:3:action" content="link" />
         <meta name="fc:frame:button:3:target" content="https://flappycaster.com/api/composer?fc_composer=1" />
-        <meta name="fc:frame:button:4" content="AI Cast" />
+        <meta name="fc:frame:button:4" content="farplanter" />
         <meta name="fc:frame:button:4:action" content="link" />
-        <meta name="fc:frame:button:4:target" content="https://apps.recaster.org/api/editor?fc_composer=1" />
+        <meta name="fc:frame:button:4:target" content="https://farplanter.xyz/color/play?fc_composer=1" />
       </head>
 
       <body>
