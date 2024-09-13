@@ -11,7 +11,7 @@ export const homeHtml = (host: string) => `
         <meta property="fc:frame:image:aspect_ratio" content="1:1" />
         <meta name="fc:frame:button:1" content="Jam Yard" />
         <meta name="fc:frame:button:1:action" content="link" />
-        <meta name="fc:frame:button:1:target" content="https://testapi.jamfrens.so/v1/composer/auth?fc_composer=1" />
+        <meta name="fc:frame:button:1:target" content="https://api.jamfrens.so/v1/composer/auth?fc_composer=1" />
         <meta name="fc:frame:button:2" content="poll" />
         <meta name="fc:frame:button:2:action" content="link" />
         <meta name="fc:frame:button:2:target" content="https://frame.weponder.io/api/actions/create-poll?fc_composer=1" />
